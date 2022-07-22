@@ -1,5 +1,5 @@
 //this is a test
 function nothing(){
-    //do nothinhhgfhgfgfdgfdsafdkdfds
+    //do nothinhhgfhgfgfdgfdsafdk
     //fd
 }
